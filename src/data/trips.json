@@ -1,0 +1,26 @@
+[
+    {
+        "img": "../assets/images/travel-1.jpg",
+        "alt": "Wadi Musa, Jordan",
+        "name": "Wadi Musa, Jordan",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-2.jpg",
+        "alt": "Petang, Indonesia",
+        "name": "Petang, Indonesia",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-3.jpg",
+        "alt": "Marrakesh, Morocco",
+        "name": "Marrakesh, Morocco",
+        "button": "View Destination"
+    },
+    {
+        "img": "../assets/images/travel-4.jpg",
+        "alt": "New York, United States",
+        "name": "New York, United States",
+        "button": "View Destination"
+    }
+]
